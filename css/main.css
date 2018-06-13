@@ -1,0 +1,145 @@
+/* MINDAUGAS */
+#aboutTab{
+	border-style: solid;
+	border-width: 1px;
+	aling = center;
+	
+}
+#navTab{
+	float: left;
+	background-color: transparent;
+}
+.mLentele{
+	height: 600px;
+}
+.pirmas {
+	border-style: solid; 
+	border-width: 1px 1px 1px 1px;
+}
+
+
+/* MINDAUGAS */
+
+
+/* Laimonas */
+.lmainBottom{
+    width: 80%;
+	margin: 0, auto;
+	height: 200px;
+}	
+.lmainBottom2
+{
+    width: 80%;
+	margin: 0, auto;
+}	
+.lToppy{
+	    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.logoHOW{
+	height: 50px;
+	margin: 5px;
+}
+
+.lPersonaljpg{
+	width: 30%;
+	margin-bottom: 15px;
+	margin-right: 15px;
+}
+
+nav ul a:hover {
+    background-color: rgba(0,255,0,0.5) !important;
+}
+
+.sidenav li>a:hover {
+    background-color: rgba(53, 242, 62,0.5) !important;
+}
+.carousel .indicators .indicator-item{
+	    background-color: rgba(53, 242, 62,0.8) !important;
+}
+.lFonas {
+    background-image:url('https://www.photohdx.com/images/2017/07/vintage-clean-grey-wall-texture-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lFirstJPG {
+    background-image:url('https://i.pinimg.com/originals/9f/a7/86/9fa78649e5d7c10ecb30ca86319303a5.png');
+    background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+.lNawBar {
+	background-color:rgba(56, 78, 114, 0.5);
+}
+
+.lCentruok{
+	  text-align: center;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.ct-series-b .ct-slice-pie {
+    fill: rgba(239, 239, 239, 0.8) !important;
+}
+.ct-series-a .ct-slice-pie {
+    fill: rgba(62, 63, 66, 0.8) !important;
+}
+
+.pilka1{
+	background-color:(146, 149, 155, 0.6) !important;
+}
+.pilka2{
+	background-color:rgba(62, 63, 66, 0.6) !important;
+}
+.ct-bar {
+    fill: none;
+    stroke-width: 8% !important;
+}
+.LPoPie{
+	text-align: center;
+	color:white;
+	font-size: 1.6rem !important;
+	font-weight: bold !important;
+}
+
+#background1 {
+    width: 100%; 
+    height: 100%; 
+    position: absolute; 
+    left: 0px; 
+    top: 0px; 
+    z-index: 0;
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+}
+.didinam{
+	font-size: 15px;
+}
+.dropdown-content li>a{
+	    color: #000000;
+}
+.ct-label{
+	font-size: 1.2rem !important;
+	 font-weight: bold !important;
+	 color: rgba(0,0,0,1) !important;
+}
+.amazing {
+    transform: rotate(-90deg);
+}
+
+
+/* Laimonas */
+
+
+/* Skaiste */
+
+#stextas {font-family: 'Oswald', sans-serif;
+}
+#stextaskitas {font-family: 'Mr Dafoe', cursive;
+}
+
+/* Skaiste */
+
